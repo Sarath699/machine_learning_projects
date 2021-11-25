@@ -1,1 +1,1 @@
-# IPL score prediction
+# IPL
